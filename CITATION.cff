@@ -1,0 +1,19 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: RTC-stormwater-retention-basin
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Jesper
+    family-names: Knutsson
+    email: jesper.knutsson@chalmers.se
+    name-particle: Jesper
+    affiliation: Chalmers university of technology
+    orcid: 'https://orcid.org/0000-0002-1622-2009'
+repository-code: 'https://github.com/jespknut/RTC-stormwater-retention-basin'
+license: MIT
+date-released: '2024-09-17'
